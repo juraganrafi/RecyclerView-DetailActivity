@@ -1,0 +1,4 @@
+#Sun Jan 21 00:02:41 CXT 2018
+base.0=/home/rafi/AndroidStudioProjects/ProjectDicoding/MyCats/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
